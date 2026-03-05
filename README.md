@@ -23,7 +23,7 @@ I enjoy turning ideas into **interactive and animated web experiences** using mo
 
 # 🧠 Currently Working On
 
-🚀 **ShikshaSetu AI**
+🚀 **EduPath-AI**
 An AI-powered adaptive learning platform that personalizes study material for students.
 
 ⚡ **Modern React UI Experiments**
@@ -61,7 +61,7 @@ Learning **Express, MongoDB, APIs and authentication systems**.
 ✨ **Refokus Clone**
 Modern animated React frontend inspired by Refokus design.
 
-🧠 **ShikshaSetu AI**
+🧠 **EduPath-AI**
 AI adaptive learning system that personalizes study material based on aptitude.
 
 ⚙️ **Backend Practice Projects**
