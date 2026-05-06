@@ -1,134 +1,214 @@
-<!-- PROFILE BANNER -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Aditya%20Verma&fontSize=42&fontColor=ffffff&animation=fadeIn" />
-</p>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aditya&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20DSA&descAlignY=60&descSize=18&descColor=a78bfa"/>
 
-<!-- TYPING INTRO -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=Hi+I'm+Aditya+Verma;Frontend+Developer;Backend+Learner;React+%7C+Node.js+%7C+MongoDB;Building+AI+Learning+Platforms;Always+Learning+New+Things" />
-</p>
-
----
-
-# 👋 Hi, I'm Aditya Verma
-
-💻 **Frontend Developer | Backend Learner**
-🚀 Passionate about building **modern web applications and AI-powered platforms**
-
-I enjoy turning ideas into **interactive and animated web experiences** using modern technologies like **React, Node.js and MongoDB**.
-
----
-
-# 🧠 Currently Working On
-
-🚀 **EduPath-AI**
-An AI-powered adaptive learning platform that personalizes study material for students.
-
-⚡ **Modern React UI Experiments**
-Creating smooth animated interfaces inspired by premium websites.
-
-📚 **Backend Development**
-Learning **Express, MongoDB, APIs and authentication systems**.
-
----
-
-# 🛠 Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-✨ **Refokus Clone**
-Modern animated React frontend inspired by Refokus design.
-
-🧠 **EduPath-AI**
-AI adaptive learning system that personalizes study material based on aptitude.
-
-⚙️ **Backend Practice Projects**
-Authentication systems, REST APIs and MongoDB integrations.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aditya-vrm&show_icons=true&theme=tokyonight&border_radius=10"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-vrm&theme=tokyonight&border_radius=10"/>
-
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-vrm&layout=compact&theme=tokyonight&border_radius=10"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aditya-vrm&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=aditya-vrm&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<!-- Typing Animation -->
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;BCA+Student+%7C+MERN+Stack+Developer;Building+Real-World+Projects+%F0%9F%9A%80;Clean+Code+%7C+Problem+Solver+%7C+DSA+Grinder;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
-</p>
+<br/><br/>
+
+<!-- Profile Views + Followers + Stars -->
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="profile views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0d0d0d" alt="followers"/>
+
+</div>
 
 ---
 
-⭐ **"Building things on the internet and learning something new every day."**
+<!-- About Me -->
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+### 🧑‍💻 About Me
+
+```javascript
+const aditya = {
+  role      : "BCA Student & MERN Stack Developer",
+  focus     : ["Full-Stack Web Apps", "DSA", "Clean Code"],
+  building  : "🔥 Social Media Platform (MERN)",
+  learning  : ["Algorithms", "System Design"],
+  hobbies   : ["Coding", "Problem Solving", "Open Source"],
+  funFact   : "I debug with console.log and I'm not ashamed 😄"
+};
+```
+
+- 🎓 Pursuing **BCA** — focused on building real-world skills
+- 🔥 Currently building a **Full-Stack Social Media App** with MERN
+- 🧠 Grinding **Data Structures & Algorithms** daily
+- 💡 Passionate about writing **clean, scalable code**
+- 🌱 Always learning, always shipping
+
+<br clear="right"/>
 
 ---
 
-<!-- FOOTER -->
+<!-- Tech Stack -->
+## 🛠️ Tech Stack & Tools
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
+<div align="center">
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" />
+
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+
+### 🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+
+</div>
+
+---
+
+<!-- Currently Working On -->
+## 🚀 What I'm Working On
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔥 Social Media Platform</h3>
+      <div align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="project gif"/>
+      </div>
+      <p align="center">
+        Full-stack MERN app with:<br/>
+        ✅ JWT Authentication<br/>
+        ✅ Create & Manage Posts<br/>
+        ✅ Dynamic Feed System<br/>
+        ✅ Profile Management
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge&logo=git"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧠 DSA Journey</h3>
+      <div align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300" alt="dsa gif"/>
+      </div>
+      <p align="center">
+        ✅ Completed Core Data Structures<br/>
+        🔄 Currently: Algorithms<br/>
+        🎯 Goal: Competitive Programming<br/>
+        💪 Daily Problem Solving
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=leetcode"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- Projects -->
+## 🔹 Featured Projects
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
+      <br/><strong>🌐 Social Media Platform</strong><br/>
+      <sub>MERN · JWT · REST API</sub><br/>
+      <img src="https://img.shields.io/badge/-In%20Progress-ff6b35?style=flat-square"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
+      <br/><strong>🎨 Refokus Clone</strong><br/>
+      <sub>React · Tailwind · GSAP Animations</sub><br/>
+      <img src="https://img.shields.io/badge/-Completed-4ade80?style=flat-square"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
+      <br/><strong>⚙️ Backend Practice</strong><br/>
+      <sub>Node.js · Express · MongoDB</sub><br/>
+      <img src="https://img.shields.io/badge/-Ongoing-a78bfa?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d0d0d&stroke=a78bfa&ring=a78bfa&fire=ff6b35&currStreakLabel=ffffff&sideLabels=ffffff" alt="GitHub Streak"/>
+
+<br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+---
+
+<!-- Activity Graph -->
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
+</div>
+
+---
+
+<!-- Trophies -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
+</div>
+
+---
+
+<!-- Dev Quote -->
+## 💭 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<!-- Connect -->
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+---
+
+<!-- Snake Animation -->
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+
+<div align="center">
+  <sub>⭐ <strong>Building real-world projects and improving every day.</strong> ⭐</sub><br/>
+  <sub>Made with ❤️ and lots of ☕ by Aditya</sub>
+</div>
