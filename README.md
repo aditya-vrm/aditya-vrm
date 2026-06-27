@@ -134,21 +134,7 @@ const aditya = {
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d0d0d&stroke=a78bfa&ring=a78bfa&fire=ff6b35&currStreakLabel=ffffff&sideLabels=ffffff" alt="GitHub Streak"/>
-
-<br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=ffffff&langs_count=8" alt="Top Languages"/>
-
-</div>
-
----
 
 <!-- Activity Graph -->
 ## 📈 Contribution Activity
