@@ -56,47 +56,6 @@ const aditya = {
 
 ---
 
-<!-- Currently Working On -->
-## 🚀 What I'm Working On
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔥 Social Media Platform</h3>
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="project gif"/>
-      </div>
-      <p align="center">
-        Full-stack MERN app with:<br/>
-        ✅ JWT Authentication<br/>
-        ✅ Create & Manage Posts<br/>
-        ✅ Dynamic Feed System<br/>
-        ✅ Profile Management
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge&logo=git"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧠 DSA Journey</h3>
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300" alt="dsa gif"/>
-      </div>
-      <p align="center">
-        ✅ Completed Core Data Structures<br/>
-        🔄 Currently: Algorithms<br/>
-        🎯 Goal: Competitive Programming<br/>
-        💪 Daily Problem Solving
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=leetcode"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 <!-- Projects -->
 ## 🔹 Featured Projects
 
@@ -127,17 +86,6 @@ const aditya = {
 
 ---
 
-
-
-<!-- Activity Graph -->
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
-</div>
-
----
-
 <!-- Trophies -->
 ## 🏆 GitHub Trophies
 
@@ -161,10 +109,9 @@ const aditya = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aditya-v27)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityahosir@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 </div>
