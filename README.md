@@ -56,35 +56,7 @@ const aditya = {
 
 ---
 
-<!-- Projects -->
-## 🔹 Featured Projects
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
-      <br/><strong>🌐 Social Media Platform</strong><br/>
-      <sub>MERN · JWT · REST API</sub><br/>
-      <img src="https://img.shields.io/badge/-In%20Progress-ff6b35?style=flat-square"/>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
-      <br/><strong>🎨 Refokus Clone</strong><br/>
-      <sub>React · Tailwind · GSAP Animations</sub><br/>
-      <img src="https://img.shields.io/badge/-Completed-4ade80?style=flat-square"/>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
-      <br/><strong>⚙️ Backend Practice</strong><br/>
-      <sub>Node.js · Express · MongoDB</sub><br/>
-      <img src="https://img.shields.io/badge/-Ongoing-a78bfa?style=flat-square"/>
-    </td>
-  </tr>
-</table>
-</div>
-
----
 
 <!-- Trophies -->
 ## 🏆 GitHub Trophies
@@ -118,18 +90,7 @@ const aditya = {
 
 ---
 
-<!-- Snake Animation -->
-## 🐍 GitHub Contribution Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
----
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
