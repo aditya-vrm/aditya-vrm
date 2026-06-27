@@ -8,13 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;BCA+Student+%7C+MERN+Stack+Developer;Building+Real-World+Projects+%F0%9F%9A%80;Clean+Code+%7C+Problem+Solver+%7C+DSA+Grinder;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<!-- Profile Views + Followers + Stars -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="profile views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0d0d0d" alt="followers"/>
-
 </div>
 
 ---
